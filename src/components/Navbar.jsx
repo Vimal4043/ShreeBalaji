@@ -278,7 +278,7 @@ export default function Navbar() {
               aria-haspopup="dialog"
               aria-expanded={isMenuOpen}
               aria-controls="mobile-menu"
-              className="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[#0B2A4A]/15 bg-white/70 text-[#0B2A4A] transition-all duration-300 hover:border-gold hover:bg-[#EFE9DB] active:scale-95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#D9A441] lg:hidden"
+              className="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[#0B2A4A]/15 bg-white/70 text-[#0B2A4A] transition-all duration-300 hover:border-gold hover:bg-[#EFE9DB] active:scale-95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold lg:hidden"
             >
               <Menu
                 className="h-6 w-6"

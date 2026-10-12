@@ -63,7 +63,7 @@ export default function Footer() {
               />
             </Link>
 
-            <p className="mt-3 max-w-sm text-sm leading-relaxed text-white/70">
+            <p className="max-w-sm text-sm leading-relaxed text-white/70">
               {BRAND.name} helps families find the perfect home — residential
               projects with verified approvals and honest guidance at every
               step, from first visit to key handover.
@@ -77,7 +77,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={label}
-                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#D9A441]/40 text-[#0B2A4A] transition-all duration-300 hover:border-[#D9A441] hover:bg-[#D9A441] hover:text-white"
+                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-gold/40 text-[#0B2A4A] transition-all duration-300 hover:border-gold hover:bg-gold hover:text-white"
                 >
                   <Icon className="h-4 w-4" />
                 </a>
